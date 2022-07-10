@@ -2,7 +2,7 @@
 - 👀 I’m interested in health, tech, science and sports.
 - 🌱 I’m currently learning computer science (well ... trying to - by myself)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
+- 📫 How to reach me: gokualkis@hotmail.co.uk
 
 <!---
 SonGokuAlkis/SonGokuAlkis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
