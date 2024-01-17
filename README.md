@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SonGokuAlkis
+- 👋 Hi, I’m Alkiviadis Siokos
 - 👀 I’m interested in health, tech, science and sports.
-- 🌱 I’m currently learning computer science (well ... trying to - by myself)
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 
